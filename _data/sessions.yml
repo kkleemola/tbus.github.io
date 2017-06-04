@@ -1,0 +1,123 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+
+-
+  id: 302
+  title: "1k Fun Run"
+  place: "Island"
+  description: |
+    Bond with your fellow attendees over a 1k fun run around the perimeter of
+    the island.
+
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+
+-
+  id: 001
+  title: Implementing the BUNFLF Security Model in Your Organization
+  description: |
+    <p>
+      Any modern security practitioner will sing the praises of BUNFLF, and
+      after this presentation you will too. Katie will break town the key
+      benefits and challenges of BUNFLF implementation, including practical
+      tips, an example SWOT analysis, and anecdotes from her own, extensive,
+      career.
+    </p>
+
+    <p>
+      This presentation will assume a basic understanding of security
+      best-practices such as OWASP, DiD, soc-eng, the principle of
+      least-attack-surface-area, and cloud-based service federation.
+    </p>
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 002
+  title: Python to C++ and Back Again
+  description: |
+    <p>
+      Python and C++ may seem like mortal enemies at first, with a little bit of
+      love and care they can be tricked into playing well together.
+    </p>
+
+    <p>
+      In this session, Ted and David will use Python 3.6, CFFI, and Clang to put
+      together a demo which can’t be missed!
+    </p>
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "Intermediate" 
+
+-
+  id: 003
+  title: "Puzzles: an Analytical Approach (panel)"
+  description: |
+    <p>
+      Panelists will discuss their own unique approaches to puzzle-solving, and
+      have a conversation around the applicability of puzzle solving techniques
+      to every day life.
+    </p>
+  subtype: panel
+  speakers: []
+  language: en
+  complexity: "Intermediate" 
+
+-
+  id: 004
+  title: Hooping your Way to Success
+  description: |
+    <p>
+      Hard day at work? Stressed by tight deadlines? Not living up to your own
+      expectations? Singer, dancer, and inspirational speaker Jamie
+      "Goldierocks" Joong-Watts will spin you 'round on a whirlwind tour of
+      therapeutic hula-hoop techniques you can use when you're feeling like
+      a square peg in a round hoop.
+    </p>
+
+    <p>
+      Beginners and experts alike will have something to learn from this
+      presentation, and we'll be starting with a through review of the basics
+      (ab-spin, hip continuation flick, bracelet twist, and of course the ankle
+      start) so even first-timers will have no trouble following along.
+    </p>
+
+    <p>
+      BYOH, or borrow one of Jamie's!
+    </p>
+  subtype: presentation
+  speakers: [7]
+  complexity: "Beginner"
+
+-
+  id: 005
+  title: "Safety: the Giraffe in the Room"
+  description: |
+    <p>
+      Every organization struggles with the health and safety of its
+      resources... but how often are these steps applied only at the bottom,
+      leaving those higher up the metaphorical apricot tree hanging (so to
+      speak).
+    </p>
+
+    <p>
+      In this talk, Ted emphasizes the importance of taking the "giraffe"
+      approach to safety, where visibility and transparency are encouraged
+      and monitored at every level. He gives concrete examples of threats to
+      health and wellness, including physical security, long-term repetitive
+      stress injuries, and changes in neurochemistry (both natural and
+      artificial).
+    </p>
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
