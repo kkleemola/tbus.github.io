@@ -10,19 +10,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "TBUS Conf 2017"
+title: "TBUS 2017"
 email: "admin@tbus.ca"
-description: "The premiere retreat for Canadian industry leaders"
+description: "Team Building Under the Stars 2017"
 baseurl: ""
-url: "https://tbus.github.io"
+url: "https://tbus.ca"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "tbus.github.io"
+googleAnalyticsSiteUrl: "tbus.ca"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 
 # Organizer Info
-organizerName: "TBUS"
+organizerName: "Team"
 organizerAlternateName: "We are TBUS"
 organizerDescription: "TBUS Conf provides Candian industry leaders a unique setting to share experiences with their peers"
 organizerEmail: "admin@tbus.ca"
